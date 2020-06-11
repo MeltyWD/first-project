@@ -1,3 +1,7 @@
+.parent {
+  display: flex;
+  border: solid blue 1px;
+}
 .redline {
   border: solid red 1px;
   height: 40px;
